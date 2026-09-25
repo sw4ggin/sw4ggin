@@ -98,5 +98,5 @@ api-first services     multi-tenant rest apis · postgresql + redis
 <br />
 
 <div align="center">
-<sub><b>vozniukillia99@gmail.com</b> &nbsp;/&nbsp; <b>github.com/yourusername</b> &nbsp;/&nbsp; <b>linkedin.com/in/illia-vozniuk-developer</b></sub>
+<sub><b>vozniukillia99@gmail.com</b> &nbsp;/&nbsp; <b>github.com/sw4ggin</b> &nbsp;/&nbsp; <b>linkedin.com/in/illia-vozniuk-dev</b></sub>
 </div>
